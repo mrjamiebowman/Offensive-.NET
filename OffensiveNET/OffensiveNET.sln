@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex", "Complex\Complex.csproj", "{531C637B-0C67-4B0D-962D-9253C917463F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevShell", "RevShell\RevShell.csproj", "{11FE5FAE-B7C1-484A-B162-D5578A802C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531C637B-0C67-4B0D-962D-9253C917463F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C637B-0C67-4B0D-962D-9253C917463F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C637B-0C67-4B0D-962D-9253C917463F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C637B-0C67-4B0D-962D-9253C917463F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FE5FAE-B7C1-484A-B162-D5578A802C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FE5FAE-B7C1-484A-B162-D5578A802C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FE5FAE-B7C1-484A-B162-D5578A802C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FE5FAE-B7C1-484A-B162-D5578A802C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F345F04-112D-4E39-AF1C-40894F36790E}
+	EndGlobalSection
+EndGlobal
