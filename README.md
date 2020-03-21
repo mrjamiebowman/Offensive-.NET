@@ -6,8 +6,6 @@ I am not responsible for anything you do with this code or what you learn from m
 
 ## Projects
 
-### cd 
-
 ### .NET Key Logger
 
 ### .NET Image API Endpoint (BeEF Hook)
